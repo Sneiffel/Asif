@@ -1,3 +1,3 @@
 # Asif
 Hours management application
-Nothig useful for the moment
+Nothing useful for the moment
